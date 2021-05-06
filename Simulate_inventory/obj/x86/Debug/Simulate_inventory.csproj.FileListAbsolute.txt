@@ -1,0 +1,16 @@
+C:\Users\user\AppData\Local\Temporary Projects\Simulate_inventory\bin\Debug\Simulate_inventory.exe
+C:\Users\user\AppData\Local\Temporary Projects\Simulate_inventory\bin\Debug\Simulate_inventory.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Simulate_inventory\obj\x86\Debug\Simulate_inventory.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Simulate_inventory\obj\x86\Debug\Simulate_inventory.one_at.resources
+C:\Users\user\AppData\Local\Temporary Projects\Simulate_inventory\obj\x86\Debug\Simulate_inventory.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Simulate_inventory\obj\x86\Debug\Simulate_inventory.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\Simulate_inventory\obj\x86\Debug\Simulate_inventory.exe
+C:\Users\user\AppData\Local\Temporary Projects\Simulate_inventory\obj\x86\Debug\Simulate_inventory.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Simulate_inventory\Simulate_inventory\obj\x86\Debug\Simulate_inventory.exe
+C:\Users\user\documents\visual studio 2010\Projects\Simulate_inventory\Simulate_inventory\obj\x86\Debug\Simulate_inventory.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Simulate_inventory\Simulate_inventory\bin\Debug\Simulate_inventory.exe
+C:\Users\user\documents\visual studio 2010\Projects\Simulate_inventory\Simulate_inventory\bin\Debug\Simulate_inventory.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Simulate_inventory\Simulate_inventory\obj\x86\Debug\Simulate_inventory.Form1.resources
+C:\Users\user\documents\visual studio 2010\Projects\Simulate_inventory\Simulate_inventory\obj\x86\Debug\Simulate_inventory.one_at.resources
+C:\Users\user\documents\visual studio 2010\Projects\Simulate_inventory\Simulate_inventory\obj\x86\Debug\Simulate_inventory.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\Simulate_inventory\Simulate_inventory\obj\x86\Debug\Simulate_inventory.csproj.GenerateResource.Cache
