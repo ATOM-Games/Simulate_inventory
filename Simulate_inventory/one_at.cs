@@ -12,6 +12,7 @@ namespace Simulate_inventory
     public partial class one_at : UserControl
     {
         public int _ID = 0;
+        public int _AtSos = 0;
         private int _X, _Y;
         private Form1 mathForm;
 
@@ -32,15 +33,24 @@ namespace Simulate_inventory
         }
         public void SelectState(Color cv)
         {
-            mathForm.Text = "[ " + _ID + " " + _X + "-" + _Y + " ]";
+            mathForm.Text = "[ " + _AtSos + " " + _ID + " " + _X + "-" + _Y + " ]";
             this.panel1.BackColor = cv;
         }
 
         public void defaultState() {
-            if(_ID==0){
-                this.panel1.BackColor = Color.White;
-            }else{
-                this.panel1.BackColor = Color.Gray;
+            if (_AtSos == 0)
+            {
+                if (_ID == 0)
+                {
+                    this.panel1.BackColor = Color.White;
+                }
+                else
+                {
+                    this.panel1.BackColor = Color.Gray;
+                }
+            }
+            else {
+                this.panel1.BackColor = Color.Blue;
             }
         }
 

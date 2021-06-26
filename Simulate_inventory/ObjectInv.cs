@@ -59,7 +59,7 @@ namespace Simulate_inventory
             {
                 for (int j = Math.Max((m_y - this.rec_y), 0); j < Math.Min((m_y + this.mask.GetLength(1) - this.rec_y), (inv.GetLength(1))); j++)
                 {
-                    sum += (inv[i, j]._ID * this.mask[(i - (m_x - this.rec_x)), (j - (m_y - this.rec_y))]);
+                    sum += ((inv[i, j]._AtSos * this.mask[(i - (m_x - this.rec_x)), (j - (m_y - this.rec_y))]) + (inv[i, j]._ID * this.mask[(i - (m_x - this.rec_x)), (j - (m_y - this.rec_y))]));
                 }
             }
             return (sum == 0);

@@ -22,6 +22,7 @@ namespace Simulate_inventory
             obss[3] = new ObjectInv(2, 2, "01110|10001|10001|10001|01110");
             obss[4] = new ObjectInv(4, 4, "11000011|11000011|00000000|00111100|01100110|01100110");
             this.inv_1[5, 5]._ID = 19;
+            this.inv_1[1, 10]._AtSos = -5;
             clearSelect();
         }
 
